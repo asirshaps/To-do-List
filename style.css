@@ -1,0 +1,93 @@
+#login #login-button{
+    width: 100%;
+    background-color: dodgerblue;
+    color: white;
+    border: 1px solid dodgerblue;
+
+}
+h3{
+    text-align: center;
+}
+
+/* #login{
+    float:
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 5%;
+    margin-left: 2%;
+    padding: 30px;
+} */
+/* form{
+    margin-top: 10%;
+    margin-left: 40%;
+    padding: 30px;
+    /* border: 2px solid black; */
+    /* width: fit-content;
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(0, 0, 128);
+    background-color:#F0F8FF; */
+/* } */ 
+body{
+    background-size: cover;
+    
+}
+p{
+    background-color: white;
+    color: black;
+    width: fit-content;
+    margin-left: 35%;
+    font-size: larger;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+/* #populate{
+    margin-left: 45%;
+} */
+h2{
+     
+    size: 40px;
+    text-decoration: underline;
+    color: black;
+   
+}
+#demo {
+   text-align: center;
+}
+#tbl{
+   border-width: 12px;
+   padding: 12px;
+   width: 97px;
+   margin-left: auto;
+   margin-right: auto;
+   border: 2px solid black;
+   }
+   td{
+    text-align: center;
+    background-color:whitesmoke;
+    border: 1px solid black;
+
+}
+th{
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: #1589FF;
+
+}
+#result_area{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+form{
+    margin-top: 10%;
+    margin-left: 40%;
+    padding: 30px;
+    /* border: 2px solid black; */
+    width: fit-content;
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(0, 0, 128);
+    background-color:#F0F8FF;
+}
